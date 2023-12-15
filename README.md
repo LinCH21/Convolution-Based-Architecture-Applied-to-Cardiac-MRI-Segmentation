@@ -1,4 +1,4 @@
-## Convolutional Based Architecture Applied to Cardiac MRI Segmentation
+## Convolution-Based Architecture Applied to Cardiac MRI Segmentation
 
 Final project for EN.601.682 Machine Learning: Deep Learning, Fall 2023.
 
